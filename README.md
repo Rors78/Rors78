@@ -93,7 +93,7 @@ All my bots follow security best practices:
 
 ## 📊 Portfolio Highlights
 
-- **Total Public Repositories**: 19
+- **Total Public Repositories**: 16
 - **Primary Language**: Python
 - **Total Lines of Code**: 25,000+
 - **Trading Strategies**: Grid, Martingale, Turtle, Breakout, Momentum, Mean Reversion, Fibonacci
@@ -122,7 +122,7 @@ All my bots follow security best practices:
 
 ## ⚡ Fun Facts
 
-- Built 19+ trading bots in Python
+- Built 16+ trading bots in Python
 - Optimized for mobile development (Pydroid3)
 - Created bots for micro-capital accounts ($70-$100)
 - All bots are USA regulatory compliant (spot only, no leverage)
