@@ -12,11 +12,15 @@ Welcome to my GitHub! I build automated trading systems, analysis tools, and cre
 
 | Bot | Description | Tech Stack |
 |-----|-------------|------------|
+| [**Picasso Bot**](https://github.com/Rors78/picasso-bot) | 98% win rate Fibonacci pullback trading bot - buy golden zone pullbacks in bullish trends | Python, Binance US |
 | [**Trinity Bot**](https://github.com/Rors78/trinity-bot) | Multi-agent cryptocurrency trading system with external configuration and state persistence | Python, ccxt, WebSocket |
 | [**Turtle Bot**](https://github.com/Rors78/turtle-bot) | Advanced Turtle Trading System with dual breakout strategies and real-time web dashboard | Python, Flask, ATR |
 | [**MidasBot Full**](https://github.com/Rors78/midasbot-full) | Multi-phase trading system with 5 intelligent phases (SCOUT, LUNCHBOX, REGULAR, AFTERBURNER, DIP) | Python, Kraken/Binance |
 | [**GoldenGoose Moonshot**](https://github.com/Rors78/goldengoose-moonshot) | Multi-timeframe trading bot with Fibonacci extension targets across 8 timeframes (1m-1d) | Python, TA-Lib |
 | [**Binance US Bot v16**](https://github.com/Rors78/binance-us-bot-v16) | Streamlit-based trading bot optimized for micro-capital accounts ($70-$100) | Python, Streamlit |
+| [**Tri-Martingale Bot**](https://github.com/Rors78/tri-martingale-bot) | Multi-pair martingale grid strategy across BTC, ETH, and XRP simultaneously | Python, Kraken/CoinGecko |
+| [**GridBot Pro Scalper**](https://github.com/Rors78/gridbot-pro-scalper) | Automated grid scalping with dynamic ATR-based profit targets and EMA/RSI signals | Python, Binance US |
+| [**GridPick Pro Relaxed**](https://github.com/Rors78/gridpick-pro-relaxed) | Calm colors grid trading analyzer optimized for Pydroid3 - easy on the eyes | Python, Kraken/CoinGecko |
 
 ### 📊 Dashboards & Monitors
 
@@ -25,6 +29,7 @@ Welcome to my GitHub! I build automated trading systems, analysis tools, and cre
 | [**Trading Dashboard Ultra**](https://github.com/Rors78/trading-dashboard-ultra) | Comprehensive dashboard framework with 4 editions and real-time visualization |
 | [**Missile Bot**](https://github.com/Rors78/missile-bot) | Explosive breakout scanner for all Binance.US USDT pairs |
 | [**GoldenGoose Flask**](https://github.com/Rors78/goldengoose-flask) | Web-based monitoring dashboard with real-time wallet tracking |
+| [**Search Bots**](https://github.com/Rors78/search-bots) | Altcoin price monitor collection with dual API support (Binance US + CoinGecko) |
 
 ### 🎮 Fun Projects
 
@@ -88,10 +93,10 @@ All my bots follow security best practices:
 
 ## 📊 Portfolio Highlights
 
-- **Total Public Repositories**: 13
+- **Total Public Repositories**: 19
 - **Primary Language**: Python
-- **Total Lines of Code**: 20,000+
-- **Trading Strategies**: Grid, Martingale, Turtle, Breakout, Momentum, Mean Reversion
+- **Total Lines of Code**: 25,000+
+- **Trading Strategies**: Grid, Martingale, Turtle, Breakout, Momentum, Mean Reversion, Fibonacci
 - **Supported Exchanges**: Binance US, Kraken, Generic ccxt
 
 ---
@@ -101,6 +106,7 @@ All my bots follow security best practices:
 - **Turtle Trading System** (20/55-day breakouts)
 - **Martingale Grid Strategy** (multi-pair)
 - **Fibonacci Extension Targets** (multi-timeframe)
+- **Fibonacci Pullback Trading** (golden zone entries)
 - **EMA/RSI Crossover** (grid scalping)
 - **Breakout Detection** (price + volume + momentum)
 - **Multi-Phase Adaptive** (5 intelligent modes)
@@ -116,9 +122,10 @@ All my bots follow security best practices:
 
 ## ⚡ Fun Facts
 
-- Built 13+ trading bots in Python
+- Built 19+ trading bots in Python
 - Optimized for mobile development (Pydroid3)
 - Created bots for micro-capital accounts ($70-$100)
+- All bots are USA regulatory compliant (spot only, no leverage)
 - Also build non-trading apps (fishing guides, fitness trackers)
 
 ---
@@ -127,4 +134,4 @@ All my bots follow security best practices:
 
 ---
 
-*Last Updated: December 31, 2025*
+*Last Updated: January 18, 2026*
